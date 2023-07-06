@@ -20,9 +20,9 @@ Scripts done in Python:
 
 **Robot Agenda** - Agenda with digital voice that reads the appointments added in a csv file.
 
-**screenclean_function.py** - Function to clean the screen when running a script.
+**Clear Screen** - Function to clean the screen when running a script.
 
-**temperature_sound.py** - Print the temperature of CPU each 5s and if goes up 70Cº prints msg "Carefull" and plays a sound.
+**Temperature Sensor** - Print the temperature of CPU each 5s and if goes up 70Cº prints msg "Carefull" and plays a sound.
 
 **transfer_tracker.py** - Moves the files from one folder to another one and prints the name and date & time of the file moved.
 
