@@ -10,7 +10,7 @@ Scripts done in Python:
 
 **Find & Move File** - Find files of a specific extension in a folder and move them to other folder.
 
-**manualclick_counter** - Counter Window in Tkinter that manual count from 0 to 99.
+**Click Counter** - Counter Window in Tkinter that manual count from 0 to 99.
 
 **playsound** - Play a sound from a file in a specific folder.
 
