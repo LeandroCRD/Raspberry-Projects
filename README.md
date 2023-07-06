@@ -28,7 +28,7 @@ Scripts done in Python:
 
 **your_age_2leds.py** - Turn 1 of 2 leds accordingly with the answer provided.
 
-**dice_led.py** - Press a Button to Randomly Turn a Led from 1 to 6.
+**Dice Led** - Press a Button to Randomly Turn a Led from 1 to 6.
 
 **led_chaser.py** - Turn ON from 0 to 6 Leds and Turn OFF from 6 to 0 Leds.
 
