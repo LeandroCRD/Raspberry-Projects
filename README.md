@@ -12,7 +12,7 @@ Scripts done in Python:
 
 **Click Counter** - Counter Window in Tkinter that manual count from 0 to 99.
 
-**playsound** - Play a sound from a file in a specific folder.
+**Play Sound** - Play a sound from a file in a specific folder.
 
 **pushbutton_counter.py** - Counter Window in Tkinter that manual count from 0 to 99 through a Push Button.
 
