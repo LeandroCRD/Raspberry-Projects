@@ -14,7 +14,7 @@ Scripts done in Python:
 
 **Play Sound** - Play a sound from a file in a specific folder.
 
-**pushbutton_counter.py** - Counter Window in Tkinter that manual count from 0 to 99 through a Push Button.
+**Push Button Counter** - Counter Window in Tkinter that manual count from 0 to 99 through a Push Button.
 
 **pushbutton_flashled.py** - Led blinks more fast each time Push Button is pressed.
 
