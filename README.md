@@ -4,7 +4,7 @@ Scripts done in Python:
 
 **Led Effects** - Window in Tkinter to turn on/off, blink and pulse a led.
 
-**ledpulse** - 2 ways of pulsing a led.
+**Led Pulse** - 2 ways of pulsing a led.
 
 **Blink 2 Leds** - 2 Leds blinking alternately in a breadboard.
 
