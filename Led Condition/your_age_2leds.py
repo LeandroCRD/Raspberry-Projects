@@ -6,7 +6,7 @@ GPIO.setmode(GPIO.BOARD) # Use physical pin numbering
 GPIO.setup(8, GPIO.OUT, initial=GPIO.LOW) # Set pin 8 to be an output pin and set initial value to low (off)
 GPIO.setup(7, GPIO.OUT, initial=GPIO.LOW) # Set pin 8 to be an output pin and set initial value to low (off)
 
-a = input("Quantos nos tens?\n")
+a = input("How old are you?\n")
 
 if a > 21:
     print("Green Light")
