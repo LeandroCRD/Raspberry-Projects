@@ -16,9 +16,9 @@ Scripts done in Python:
 
 **Push Button Counter** - Counter Window in Tkinter that manual count from 0 to 99 through a Push Button.
 
-**pushbutton_flashled.py** - Led blinks more fast each time Push Button is pressed.
+**Push Button Flash** - Led blinks more fast each time Push Button is pressed.
 
-**robot_agenda.py** - Agenda with digital voice that reads the appointments added in a csv file.
+**Robot Agenda** - Agenda with digital voice that reads the appointments added in a csv file.
 
 **screenclean_function.py** - Function to clean the screen when running a script.
 
