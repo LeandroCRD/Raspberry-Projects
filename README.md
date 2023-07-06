@@ -32,4 +32,4 @@ Scripts done in Python:
 
 **led_chaser.py** - Turn ON from 0 to 6 Leds and Turn OFF from 6 to 0 Leds.
 
-**dht11.py** - Measure and Print the Temperature and Humidity throught DHT11 sensor.
+**DHT11 Sensor** - Measure and Print the Temperature and Humidity throught DHT11 sensor.
