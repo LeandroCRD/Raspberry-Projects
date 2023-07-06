@@ -6,7 +6,7 @@ Scripts done in Python:
 
 **ledpulse** - 2 ways of pulsing a led.
 
-**blink_2leds** - 2 Leds blinking alternately in a breadboard.
+**Blink 2 Leds** - 2 Leds blinking alternately in a breadboard.
 
 **find_move_files** - Find files of a specific extension in a folder and move them to other folder.
 
