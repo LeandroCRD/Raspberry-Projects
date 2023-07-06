@@ -1,4 +1,4 @@
-# RaspberryPythonScripts
+# Raspberry Projects
 
 Scripts done in Python:
 
