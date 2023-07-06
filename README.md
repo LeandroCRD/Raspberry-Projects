@@ -8,7 +8,7 @@ Scripts done in Python:
 
 **Blink 2 Leds** - 2 Leds blinking alternately in a breadboard.
 
-**find_move_files** - Find files of a specific extension in a folder and move them to other folder.
+**Find & Move File** - Find files of a specific extension in a folder and move them to other folder.
 
 **manualclick_counter** - Counter Window in Tkinter that manual count from 0 to 99.
 
