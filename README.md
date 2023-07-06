@@ -24,12 +24,12 @@ Scripts done in Python:
 
 **Temperature Sensor** - Print the temperature of CPU each 5s and if goes up 70Cº prints msg "Carefull" and plays a sound.
 
-**transfer_tracker.py** - Moves the files from one folder to another one and prints the name and date & time of the file moved.
+**Transfer Tracker** - Moves files from one folder to another one and prints the name and date & time of the file moved.
 
-**your_age_2leds.py** - Turn 1 of 2 leds accordingly with the answer provided.
+**Led Condition** - Turn 1 of 2 leds accordingly with the answer provided.
 
 **Dice Led** - Press a Button to Randomly Turn a Led from 1 to 6.
 
-**Led Chaser.py** - Turn ON from 0 to 6 Leds and Turn OFF from 6 to 0 Leds.
+**Led Chaser** - Turn ON from 0 to 6 Leds and Turn OFF from 6 to 0 Leds.
 
 **DHT11 Sensor** - Measure and Print the Temperature and Humidity throught DHT11 sensor.
